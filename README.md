@@ -15,3 +15,4 @@ This React application has the following features:
 [Employee-Directory](https://asheth22.github.io/Employee-Directory/)
 
 ## Mock-up
+![Mock-Up](https://user-images.githubusercontent.com/74203959/114636386-e1a96500-9c94-11eb-8363-cd141ec53de1.png)
